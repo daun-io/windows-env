@@ -3,6 +3,9 @@
 ## IDE or Editor
 
 * Visual Studio Code  
+    * vim
+    * one dark pro theme
+    * python
 
 ### Fonts
 
@@ -15,7 +18,7 @@
 
 ## Commandline
 
-* cmder (ssh enabled)
+* cmder (ssh, make, alias...)
 
 ## Alfred
 
@@ -25,3 +28,8 @@
 ## Python
 
 * Anaconda3
+* pip
+
+## Version Control
+
+* Github Desktop 
