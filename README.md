@@ -21,3 +21,7 @@
 
 * [wox](https://github.com/Wox-launcher/Wox/releases)
 * [breevy](http://www.16software.com/breevy/)
+
+## Python
+
+* Anaconda3
