@@ -1,4 +1,4 @@
-# Windows Development Environmet
+# My Windows Development Environmet
 
 ## IDE or Editor
 
@@ -19,8 +19,9 @@
 ## Commandline
 
 * cmder (ssh, make, alias...)
+    * cmder context menu(reg/context_cmder_enable.reg)
 
-## Alfred
+## Alfred replacement
 
 * [wox](https://github.com/Wox-launcher/Wox/releases)
 * [breevy](http://www.16software.com/breevy/)
